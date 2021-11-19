@@ -3,7 +3,7 @@
 I'm beginner front end developer, that loves to solving problems and that every day falls more in love with programing. 
 My goal is to be 1% better every day.:boom: Feel free to rate and contribute to projects.:mag:
 
-<div align="center">
+<div align="center" display="flex">
   <a href="https://github.com/moreira-lucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moreira-lucas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreira-lucas&layout=compact&langs_count=7&theme=radical"/>
